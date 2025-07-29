@@ -1,6 +1,6 @@
 #  🖼️ Hover Glide Image Gallery
 
-An interactive image gallery using Vanilla JavaScript, HTML, and CSS. The gallery smoothly glides in response to mouse movement with hover scale effects and image fade-in transitions, delivering an engaging and immersive browsing experience on both mobile and desktop.
+An interactive image gallery using HTML, CSS and JavaScript. The gallery smoothly glides in response to mouse movement with hover scale effects and image fade-in transitions, delivering an engaging and immersive browsing experience on both mobile and desktop.
 
 ---
 
